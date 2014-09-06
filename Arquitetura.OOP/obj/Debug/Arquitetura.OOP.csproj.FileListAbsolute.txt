@@ -1,0 +1,6 @@
+C:\GIT\ProjetoEstudo\Arquitetura.OOP\bin\Debug\Arquitetura.OOP.dll
+C:\GIT\ProjetoEstudo\Arquitetura.OOP\bin\Debug\Arquitetura.OOP.pdb
+C:\GIT\ProjetoEstudo\Arquitetura.OOP\obj\Debug\Arquitetura.OOP.csprojAssemblyReference.cache
+C:\GIT\ProjetoEstudo\Arquitetura.OOP\obj\Debug\Arquitetura.OOP.csproj.CoreCompileInputs.cache
+C:\GIT\ProjetoEstudo\Arquitetura.OOP\obj\Debug\Arquitetura.OOP.dll
+C:\GIT\ProjetoEstudo\Arquitetura.OOP\obj\Debug\Arquitetura.OOP.pdb

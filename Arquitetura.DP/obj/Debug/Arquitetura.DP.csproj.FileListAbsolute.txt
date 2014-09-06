@@ -1,0 +1,12 @@
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura.DP\bin\Debug\Arquitetura.DP.exe
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura.DP\bin\Debug\Arquitetura.DP.pdb
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura.DP\obj\Debug\Arquitetura.DP.csprojAssemblyReference.cache
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura.DP\obj\Debug\Arquitetura.DP.csproj.CoreCompileInputs.cache
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura.DP\obj\Debug\Arquitetura.DP.exe
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura.DP\obj\Debug\Arquitetura.DP.pdb
+C:\GIT\ProjetoEstudo\Arquitetura.DP\bin\Debug\Arquitetura.DP.exe
+C:\GIT\ProjetoEstudo\Arquitetura.DP\bin\Debug\Arquitetura.DP.pdb
+C:\GIT\ProjetoEstudo\Arquitetura.DP\obj\Debug\Arquitetura.DP.csprojAssemblyReference.cache
+C:\GIT\ProjetoEstudo\Arquitetura.DP\obj\Debug\Arquitetura.DP.csproj.CoreCompileInputs.cache
+C:\GIT\ProjetoEstudo\Arquitetura.DP\obj\Debug\Arquitetura.DP.exe
+C:\GIT\ProjetoEstudo\Arquitetura.DP\obj\Debug\Arquitetura.DP.pdb
