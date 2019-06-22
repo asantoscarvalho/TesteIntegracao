@@ -29,7 +29,7 @@ namespace Arquitetura.DI
             Container.Register<IClienteService, ClienteService>(Lifestyle.Transient);
             Container.Register<IClienteRepository, ClienteRepository>(Lifestyle.Transient);
 
-            // Optionally verify the _container.
+            // Optionally verify the _container. TEste de integração com o Git
             Container.Verify();
         }
     }
