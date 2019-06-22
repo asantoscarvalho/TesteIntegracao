@@ -1,0 +1,12 @@
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura\bin\Debug\Arquitetura.SOLID.exe
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura\bin\Debug\Arquitetura.SOLID.pdb
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.csprojAssemblyReference.cache
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.csproj.CoreCompileInputs.cache
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.exe
+C:\Users\AndreLuiz\Documents\Arquitetura_I\Arquitetura\obj\Debug\Arquitetura.SOLID.pdb
+C:\GIT\ProjetoEstudo\Arquitetura\bin\Debug\Arquitetura.SOLID.exe
+C:\GIT\ProjetoEstudo\Arquitetura\bin\Debug\Arquitetura.SOLID.pdb
+C:\GIT\ProjetoEstudo\Arquitetura\obj\Debug\Arquitetura.SOLID.csprojAssemblyReference.cache
+C:\GIT\ProjetoEstudo\Arquitetura\obj\Debug\Arquitetura.SOLID.csproj.CoreCompileInputs.cache
+C:\GIT\ProjetoEstudo\Arquitetura\obj\Debug\Arquitetura.SOLID.exe
+C:\GIT\ProjetoEstudo\Arquitetura\obj\Debug\Arquitetura.SOLID.pdb

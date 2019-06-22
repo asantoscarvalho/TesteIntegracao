@@ -1,0 +1,6 @@
+C:\GIT\ProjetoEstudo\Arquitetura.Clean\bin\Debug\Arquitetura.CleanCode.dll
+C:\GIT\ProjetoEstudo\Arquitetura.Clean\bin\Debug\Arquitetura.CleanCode.pdb
+C:\GIT\ProjetoEstudo\Arquitetura.Clean\obj\Debug\Arquitetura.CleanCode.csprojAssemblyReference.cache
+C:\GIT\ProjetoEstudo\Arquitetura.Clean\obj\Debug\Arquitetura.CleanCode.csproj.CoreCompileInputs.cache
+C:\GIT\ProjetoEstudo\Arquitetura.Clean\obj\Debug\Arquitetura.CleanCode.dll
+C:\GIT\ProjetoEstudo\Arquitetura.Clean\obj\Debug\Arquitetura.CleanCode.pdb
